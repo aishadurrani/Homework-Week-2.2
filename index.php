@@ -1,1 +1,1 @@
-<?php include_once("bootstrap-3.3.6/index.html");?>
+<?php include_once("portfolio2.html`");?>
